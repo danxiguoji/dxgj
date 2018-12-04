@@ -1,6 +1,5 @@
 // 2018.11.1 斗宝
 
-// 想想，决定用乔叟开篇，毕竟我从不讨厌西学。
 [verse]
 Whan that Aprille with his shoures soote, 
 The droghte of March hath perced to the roote, 
